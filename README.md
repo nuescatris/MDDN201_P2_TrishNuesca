@@ -1,3 +1,3 @@
-# Example Template for SPA1
+# MDDN201_Project 2
 
-These are some basic elements to help you out with SPA1. Hit the clone or download button to get it as a zip. 
+This is my pdf published on a website. I added a previous and a next button so that each section of the pdf, are in different pages.
